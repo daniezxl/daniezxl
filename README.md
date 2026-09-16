@@ -3,20 +3,14 @@
      system: retro-terminal · monochrome · experimental
      ════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+![Daniel Curiel](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&pause=1200&color=C9C9C9&width=600&height=70&lines=Daniel+Curiel)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&pause=1200&color=C9C9C9&center=true&vCenter=true&width=700&height=80&lines=Daniel+Curiel" alt="Daniel Curiel" />
+`Computer Systems Engineering Student` · `Co-Founder & CTO @ Qubiko`
 
-<code>Computer Systems Engineering Student</code> &nbsp;·&nbsp; <code>Co-Founder &amp; CTO @ Qubiko</code>
-
-<br>
-
-<img src="https://img.shields.io/badge/ROBOTICS-101010?style=flat-square&labelColor=101010" />
-<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-181818?style=flat-square&labelColor=181818" />
-<img src="https://img.shields.io/badge/INTELLIGENT_SYSTEMS-202020?style=flat-square&labelColor=202020" />
-<img src="https://img.shields.io/badge/SOFTWARE_ENGINEERING-282828?style=flat-square&labelColor=282828" />
-
-</div>
+![ROBOTICS](https://img.shields.io/badge/ROBOTICS-101010?style=flat-square&labelColor=101010)
+![ARTIFICIAL_INTELLIGENCE](https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-181818?style=flat-square&labelColor=181818)
+![INTELLIGENT_SYSTEMS](https://img.shields.io/badge/INTELLIGENT_SYSTEMS-202020?style=flat-square&labelColor=202020)
+![SOFTWARE_ENGINEERING](https://img.shields.io/badge/SOFTWARE_ENGINEERING-282828?style=flat-square&labelColor=282828)
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
@@ -24,7 +18,7 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<br>
+---
 
 ## `> ABOUT_ME`
 
@@ -45,23 +39,21 @@ FOCUS
 
 I build software for machines that operate in the physical world.
 
-Right now I'm studying Computer Systems Engineering while working as
+I'm currently studying Computer Systems Engineering while working as
 Co-Founder & CTO at **Qubiko**, a robotics and artificial intelligence
-startup. My work lives at the intersection of software, intelligent
+startup. My work sits at the intersection of software, intelligent
 systems, robotics and the real world — designing systems that can
 perceive, learn and interact with their environment.
 
 I like building things, solving complex engineering problems, and turning
 emerging technologies into practical products with a positive purpose.
 
-<br>
+---
 
 ## `> PHILOSOPHY`
 
 <details>
 <summary><b>▶ philosophy.exe</b></summary>
-
-<br>
 
 ```bash
 $ ./philosophy.exe --run
@@ -79,26 +71,45 @@ $ ./philosophy.exe --run
 
 </details>
 
-<br>
+---
 
 ## `> SKILLS`
 
-### `> SOFTWARE`
+**// SOFTWARE & SYSTEMS**
 `Software Engineering` `System Architecture` `Computer Systems`
 
-### `> ROBOTICS`
+**// ROBOTICS**
 `Robotics` `ROS 2` `Simulation` `Computer Vision`
 
-### `> ARTIFICIAL INTELLIGENCE`
-`Artificial Intelligence` `AI Development` `Computer Vision` `Llama Ecosystem`
+**// ARTIFICIAL INTELLIGENCE**
+`Artificial Intelligence` `AI Development` `GPT` `Claude Opus` `Gemini`
 
-### `> ENGINEERING`
+**// PROCESS & ENGINEERING**
 `Continuous Improvement` `Lean Six Sigma` `Six Sigma`
 
-### `> LANGUAGES`
-`Python` `Spanish — Native / Bilingual` `English — Limited Working`
+**// SPOKEN LANGUAGES**
+`Spanish — Native / Bilingual` `English — Limited Working`
 
 <br>
+
+### `> TECH_STACK`
+
+```text
+LANGUAGES
+├── Python
+└── JavaScript
+
+BACKEND
+└── Node.js
+
+FRONTEND
+└── React
+
+DATABASES
+└── PostgreSQL
+```
+
+---
 
 ## `> CURRENT_SYSTEM`
 
@@ -113,21 +124,20 @@ $ systemctl status daniel-curiel
    ├── [ running ] qubiko            · robotics & AI startup · CTO
    ├── [ running ] engineering-degree · computer systems engineering
    ├── [ running ] robotics          · ros 2 · simulation
-   ├── [ running ] artificial-intel  · llama ecosystem · python
+   ├── [ running ] artificial-intel  · gpt · opus · gemini
+   ├── [ running ] web-stack         · js · react · node · postgres
    └── [ running ] computer-vision   · perception experiments
 
    MODE     : building
    PURPOSE  : systems that perceive, learn and interact
 ```
 
-<br>
+---
 
 ## `> TERMINAL`
 
 <details>
 <summary><b>▶ ./whoami</b></summary>
-
-<br>
 
 ```bash
 $ whoami
@@ -145,8 +155,6 @@ daniel-curiel
 
 <details>
 <summary><b>▶ ./interests</b></summary>
-
-<br>
 
 ```bash
 $ ./interests --list
@@ -168,8 +176,6 @@ $ ./interests --list
 <details>
 <summary><b>▶ ./mission</b></summary>
 
-<br>
-
 ```bash
 $ cat mission.txt
 
@@ -189,22 +195,20 @@ EOF
 <details>
 <summary><b>▶ ./status</b></summary>
 
-<br>
-
 ```bash
 $ ./status
 
 USER      : daniel-curiel
 ROLE      : Co-Founder & CTO @ Qubiko
 STUDYING  : Computer Systems Engineering
-BUILDING  : robotics · artificial intelligence
+BUILDING  : robotics · artificial intelligence · web systems
 LEARNING  : always
 STATE     : online
 ```
 
 </details>
 
-<br>
+---
 
 ## `> IDENTITY`
 
@@ -212,16 +216,16 @@ STATE     : online
 IDENTITY
 ├── full_name    : Daniel Jared Curiel Avalos
 ├── display_name : Daniel Curiel
-├── education    : Ingeniería en Sistemas Computacionales
-│                  Instituto Tecnológico de Mexicali
+├── education    : Computer Systems Engineering
+│                  Mexicali Institute of Technology
 ├── company      : Qubiko — robotics & artificial intelligence
 ├── position     : Co-Founder & CTO
 └── languages
-    ├── Español  : Native / Bilingual
+    ├── Spanish  : Native / Bilingual
     └── English  : Limited Working
 ```
 
-<br>
+---
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
@@ -229,7 +233,14 @@ IDENTITY
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<div align="center">
+```
+      /\_/\
+     ( o.o )
+      > ^ 
+     /|   |\
+    (_|   |_)
+      CAT.exe
+```
 
 ```bash
 $ exit
@@ -237,7 +248,3 @@ $ exit
 logout
 Connection to daniel-curiel closed.
 ```
-
-<code>█</code>
-
-</div>
